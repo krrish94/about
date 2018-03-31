@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: <strong>Krishna</strong> Murthy Jatavallabhula
+title: <strong>Krishna Murthy</strong> Jatavallabhula
 description: PhD Student at <a href="https://mila.quebec/en/">MILA</a>
 
 profile:
