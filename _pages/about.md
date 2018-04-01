@@ -16,4 +16,4 @@ I am a first year PhD student at the [Montreal Institute of Learning Algorithms 
 
 My interests are diverse; predominantly along the intersections of [deep learning](https://www.technologyreview.com/s/513696/deep-learning/), [computer vision](https://hayo.io/computer-vision/), and [autonomous robotics](https://en.wikipedia.org/wiki/Robotics).
 
-When I'm not doing research, I love to spend time writing technical blogs, tutorials, and writing open-source code.
+When I'm not doing research, I love to spend time writing technical blogs, tutorials, and open-source code.
